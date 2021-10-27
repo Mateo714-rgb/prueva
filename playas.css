@@ -1,0 +1,18 @@
+*{
+	margin: 0px;
+}
+
+body{
+	background-color: #223;
+}
+
+.sokk{
+	color: #ededed;
+	background-color: #200;
+	font-size: 40px;
+}
+
+
+.sokk h2:hover{
+	transition: 500ms;
+}
